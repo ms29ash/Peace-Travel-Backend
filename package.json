@@ -1,0 +1,19 @@
+{
+  "name": "peace-place",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "MS",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.6",
+    "multer": "^1.4.5-lts.1"
+  }
+}
